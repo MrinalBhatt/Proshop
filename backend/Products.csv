@@ -1,0 +1,7 @@
+Id,ProductName,Price,Ratings,Reviews,Brand,Category,InStock,Image,Description
+1,Airpods Wireless Bluetooth Headphones,89.99,4.5,12,Apple,Electronics,10,/images/airpods.jpg,Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working
+2,iPhone 11 Pro 256GB Memory,599.99,0,0,Apple,Electronics,7,/images/phone.jpg,Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life
+3,Cannon EOS 80D DSLR Camera,929.99,3,12,Cannon,Electronics,5,/images/camera.jpg,"Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design"
+4,Sony Playstation 4 Pro White Version,399.99,5,12,Sony,Electronics,11,/images/playstation.jpg,"The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music"
+5,Logitech G-Series Gaming Mouse,49.99,3.5,10,Logitech,Electronics,7,/images/mouse.jpg,Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience
+6,Amazon Echo Dot 3rd Generation,29.99,4,12,Amazon,Electronics,,/images/alexa.jpg,Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space
